@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a chemical engineering graduate
+- 🎓 I’m a chemical engineering graduate
 - 🏭 Working as Process Engineer in a Pulp Mill
 - 📊 Interested in Data Analyst roles
 - 🌱 Currently a student in Data Analyst program of Practicum Indonesia
